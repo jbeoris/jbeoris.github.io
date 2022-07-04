@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jack Beoris</title>
-    <link>https://jackbeoris.com/tags/</link>
+    <link>https://www.jackbeoris.com/tags/</link>
     <description>Recent content in Tags on Jack Beoris</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jackbeoris.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.jackbeoris.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
